@@ -17,7 +17,7 @@ This repository contains my journey of preparing for technical interviews, focus
 └── README.md
 ```
 
-## Progress Tracker - (Tracker)[https://jumpy-work-752.notion.site/17abf77be677800b892efe32c4e56bb9?v=1abdc5202f174470a74d47f62fcc4d93&pvs=4]
+## Progress Tracker - [Tracker](https://jumpy-work-752.notion.site/17abf77be677800b892efe32c4e56bb9?v=1abdc5202f174470a74d47f62fcc4d93&pvs=4)
 
 #### Data Structures
 - [ ] Arrays and Strings
